@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <fruit>apple</fruit>
+    <size> large</size>
+    <color> red</color>
+  </row>
+  <row>
+    <fruit>carrot</fruit>
+    <size> medium</size>
+    <color> orange</color>
+  </row>
+  <row>
+    <fruit>banana</fruit>
+    <size> large</size>
+    <color> yellow</color>
+  </row>
+</root>

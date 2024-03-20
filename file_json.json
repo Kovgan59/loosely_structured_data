@@ -1,0 +1,17 @@
+[
+    {
+      "fruit": "apple",
+      "size": " large",
+      "color": " red"
+    },
+    {
+      "fruit": "carrot",
+      "size": " medium",
+      "color": " orange"
+    },
+    {
+      "fruit": "banana",
+      "size": " large",
+      "color": " yellow"
+    }
+   ]
